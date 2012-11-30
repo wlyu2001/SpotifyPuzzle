@@ -1,3 +1,4 @@
+package lottery;
 
 import java.util.Scanner;
 
